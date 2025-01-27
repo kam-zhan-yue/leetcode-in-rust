@@ -1,0 +1,6 @@
+[package]
+name = "number_of_islands"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
